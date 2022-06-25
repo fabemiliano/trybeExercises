@@ -6,6 +6,6 @@
     "jest": "^25.2.7"
   },
   "devDependencies": {
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.7"
   }
 }
